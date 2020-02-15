@@ -2,5 +2,9 @@
 This repository contains the SQL files I wrote to generate a database for requests of referral to a hypothetical Cannabis clinic.
 The project was made so that patient and doctor information, individual histories of complaints, and reasons of referral, as well the numbers of forms filed were all stored in 3rd normal form. The database was designed on creation to be easily updated with more information in the future.
 The report SQL file was written to query in relevant results, some samples of you can preview below:
+<img src="TB1.png">
+<img src="TB2.png">
+<img src="TB3.png">
+<img src="TB4.png">
 <H2>Disclaimer</H2>
 All data was is fake. There has been no real personal information used in the creation and population of fields in this database.
